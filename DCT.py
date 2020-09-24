@@ -85,7 +85,7 @@ for i in range(0,512,N):
 #dct(pixel,dct_pixel,1)
 print("DCT complete")
 
-#이미지 출력
+#show image
 plot.imshow(dct_pixel,cmap='gray')
 plot.show()
 
