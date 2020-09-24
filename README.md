@@ -1,1 +1,1 @@
-"# DCT" 
+discrete cosine transform on image
